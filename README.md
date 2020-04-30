@@ -22,22 +22,32 @@
 # Contents
 ## Communities
 ### Programming Languages
-* Python
-    - [MeetUp](https://www.meetup.com/Python-Nairobi/)
-    - [Telegram](https://t.me/pythonKE)
+#### Python
 
-* Kotlin
-    - [MeetUp](https://www.meetup.com/KotlinKenya/)
-    - [Telegram](https://t.me/kotlinKenya)
+Python programming language and its applications.
+- [MeetUp](https://www.meetup.com/Python-Nairobi/)
+- [Telegram](https://t.me/pythonKE)
+
+#### Kotlin
+
+Learn about Kotlin, its ecosystem and applications.
+- [MeetUp](https://www.meetup.com/KotlinKenya/)
+- [Telegram](https://t.me/kotlinKenya)
 
 ### Practices
-* Agile
-    - [MeetUp](https://www.meetup.com/Nairobi-Agile-and-Scrum-Meetup/)
-    - [WhatsApp](https://chat.whatsapp.com/KSh1ExMqOcdF1OkACd28VP)
+#### Agile
+Anyone interested in sharing experiences of the best practices of agile, lean principles and values, as well as the different frameworks to support scaling agile.
 
-* Quality Engineering
-     - [MeetUp](https://www.meetup.com/Nairobi-Agile-and-Scrum-Meetup/)
-    - WhatsApp
+- [MeetUp](https://www.meetup.com/Nairobi-Agile-and-Scrum-Meetup/)
+- [Twitter](https://twitter.com/AgileKe)
+- [WhatsApp](https://chat.whatsapp.com/KSh1ExMqOcdF1OkACd28VP)
+- [Telegram](http://t.me/AgileKE)
+
+#### Quality Engineering
+QA and Quality Engineers or anyone interested in software quality/testing to share, learn and grow their testing and quality engineering expertise.
+
+- [MeetUp](https://www.meetup.com/Nairobi-Agile-and-Scrum-Meetup/)
+- [WhatsApp](https://chat.whatsapp.com/FW0uMXlq23mEBgH8vWckUs)
 
 
 ### Various Technologies

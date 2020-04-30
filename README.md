@@ -13,8 +13,13 @@
     - [Practices](#practices)
       - [Agile](#agile)
       - [Quality Engineering](#quality-engineering)
+    - [Frameworks](#frameworks)
     - [Various Technologies](#various-technologies)
+      - [Containerization](#containerization)
+      - [Cloud](#cloud)
     - [Themes](#themes)
+      - [Data](#data)
+      - [Artificial Intelligence/ Machine Learning](#artificial-intelligence-machine-learning)
   - [Conferences](#conferences)
   - [Training Programs](#training-programs)
 - [License](#license)
@@ -28,19 +33,19 @@
 ### Programming Languages
 #### Python
 
-Python programming language and its applications.
+[Python programming language](https://www.python.org/) and its applications.
 - [MeetUp](https://www.meetup.com/Python-Nairobi/)
 - [Telegram](https://t.me/pythonKE)
 
 #### Kotlin
 
-Learn about Kotlin, its ecosystem and applications.
+Learn about [Kotlin](https://kotlinlang.org/), its ecosystem and applications.
 - [MeetUp](https://www.meetup.com/KotlinKenya/)
 - [Telegram](https://t.me/kotlinKenya)
 
 ### Practices
 #### Agile
-Anyone interested in sharing experiences of the best practices of agile, lean principles and values, as well as the different frameworks to support scaling agile.
+Anyone interested in sharing experiences on best practices in Agile, Lean Principles and Values, as well as the different frameworks to support scaling Agile.
 
 - [MeetUp](https://www.meetup.com/Nairobi-Agile-and-Scrum-Meetup/)
 - [Twitter](https://twitter.com/AgileKe)
@@ -54,8 +59,24 @@ QA and Quality Engineers or anyone interested in software quality/testing to sha
 - [WhatsApp](https://chat.whatsapp.com/FW0uMXlq23mEBgH8vWckUs)
 
 
+### Frameworks
+* [Laravel](https://laravel.com/)
+    - [Meetup](https://www.meetup.com/laravel-nairobi/)
+
 ### Various Technologies
+#### Containerization
+
+* [Docker](https://www.docker.com/)
+    - [MeetUp](https://www.meetup.com/Docker-Nairobi-2/)
+
+#### Cloud
+* AWS
+    - [Nairobi AWS on MeetUp](https://www.meetup.com/Nairobi-AWS-Meetup/)
+    - [AWS User Group on Meetup](https://www.meetup.com/AWS-User-Group-Nairobi/)
+
 ### Themes
+#### Data
+#### Artificial Intelligence/ Machine Learning
 ## Conferences
 ## Training Programs
 # License

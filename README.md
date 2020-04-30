@@ -7,6 +7,10 @@
 
 - [Contents](#contents)
   - [Communities](#communities)
+    - [Programming Languages](#programming-languages)
+    - [Practices](#practices)
+    - [Various Technologies](#various-technologies)
+    - [Themes](#themes)
   - [Conferences](#conferences)
   - [Training Programs](#training-programs)
 - [License](#license)
@@ -17,6 +21,27 @@
 
 # Contents
 ## Communities
+### Programming Languages
+* Python
+    - [MeetUp](https://www.meetup.com/Python-Nairobi/)
+    - [Telegram](https://t.me/pythonKE)
+
+* Kotlin
+    - [MeetUp](https://www.meetup.com/KotlinKenya/)
+    - [Telegram](https://t.me/kotlinKenya)
+
+### Practices
+* Agile
+    - [MeetUp](https://www.meetup.com/Nairobi-Agile-and-Scrum-Meetup/)
+    - [WhatsApp](https://chat.whatsapp.com/KSh1ExMqOcdF1OkACd28VP)
+
+* Quality Engineering
+     - [MeetUp](https://www.meetup.com/Nairobi-Agile-and-Scrum-Meetup/)
+    - WhatsApp
+
+
+### Various Technologies
+### Themes
 ## Conferences
 ## Training Programs
 # License
